@@ -1,3 +1,5 @@
-<?php
-echo "Hello, World! This is my PHP app on OpenShift.";
+<?php 
+print "Hello, World! php version is " . PHP_VERSION . "\n"; 
+print "A change is a coming!\n"; 
 ?>
+
